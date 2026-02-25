@@ -48093,6 +48093,25 @@
         "image": "oleksandr-anosov.jpg"
     },
     {
+        "name": "Oleksandr Staryk",
+        "bio": "<p>I am a DevOps / Platform Engineer passionate about Kubernetes and cloud-native platform engineering. I build and operate production Kubernetes platforms with a strong focus on scalability, security, and automation across AWS and GCP. I continuously deepen my Kubernetes expertise through hands-on work and CNCF certifications.</p>",
+        "company": "",
+        "pronouns": "He/Him",
+        "location": "Kyiv, Ukraine",
+        "linkedin": "",
+        "twitter": "",
+        "github": "",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "certdirectory": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "slack_id": "",
+        "image": "oleksandr-staryk.jpg"
+    },
+    {
         "name": "Oleksandr Vashchenko",
         "bio": "<p>Senior DevOps/Platform engineer with experience in implementation and supporting Linux, AWS, Kubernetes, and CI/CD environments in financial, telecommunication, PLM, and more domains. Adept in troubleshooting different environments using a wide knowledge of CI/CD, cloud infrastructures, and networking tools to deliver efficient and reliable solutions.</p>",
         "company": "Fidelity Investments",
