@@ -38305,10 +38305,10 @@
     },
     {
         "name": "Majid Faridi",
-        "bio": "<p>Majid Faridi is a Senior DevOps Engineer with over 8 years of experience, specializing in Kubernetes, cloud-native technologies, and CNCF ecosystems. He shares his expertise through technical blog posts and is passionate about optimizing infrastructure while staying engaged with the latest developments in the cloud-native space.</p>",
+        "bio": "<p>Majid Faridi is a Senior DevOps/Infrastructure Engineer with over 8 years of experience designing and operating cloud-native platforms at scale. He specializes in Kubernetes, platform engineering, and production-grade infrastructure on AWS. As a Golden Kubestronaut, Majid has achieved all CNCF certifications, demonstrating comprehensive expertise across Kubernetes administration, application development, security, and cloud-native ecosystems. He is passionate about building secure, observable, and highly automated systems, with a strong focus on reducing cognitive load for developers through reliable internal platforms and GitOps-driven workflows. He actively mentors engineers and promotes cloud-native best practices within organizations, enabling teams to build scalable, resilient, and secure platforms.</p>",
         "company": "",
         "pronouns": "He/Him",
-        "location": "Istanbul, Turkey",
+        "location": "Hamburg, Germany",
         "linkedin": "https://linkedin.com/in/majid-faridi",
         "twitter": "",
         "github": "",
